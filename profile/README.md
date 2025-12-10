@@ -15,7 +15,9 @@ and acting instantly—just like a real agent. Our mission is to empower busines
 We are building a suite of advanced **real-time AI Voice Agent** technologies:
 
 **Domain-Specific Intelligent Agents**: Custom voice agents designed for education, finance, enterprise workflow automation, and more.
+
 **Bi-Directional Streaming Engine**: High-performance STT + TTS pipeline with adaptive tone, intent understanding, and contextual reasoning.
+
 **Developer Ecosystem & SDK**: Easy-to-integrate APIs, SDKs, and templates for teams building their own voice-driven products.
 
 ---
