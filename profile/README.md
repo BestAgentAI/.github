@@ -1,4 +1,8 @@
 ## CogniEmerge
+![AI](https://img.shields.io/badge/AI-Voice%20Agent-9cf)
+![Realtime](https://img.shields.io/badge/Realtime-Low%20Latency-orange)
+![LLM Powered](https://img.shields.io/badge/LLM-Powered-blueviolet)
+![Streaming](https://img.shields.io/badge/Streaming-Bidirectional-success)
 
 CogniEmerge is a leading AI company specializing in **real-time Voice Agent** solutions.  
 We build intelligent, human-like conversational systems capable of understanding, responding,  
