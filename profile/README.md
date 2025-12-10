@@ -2,9 +2,7 @@
 
 CogniEmerge is a leading AI company specializing in **real-time Voice Agent** solutions.  
 We build intelligent, human-like conversational systems capable of understanding, responding,  
-and acting instantly—just like a real agent.
-
-Our mission is to empower businesses with the next generation of voice interaction. 
+and acting instantly—just like a real agent. Our mission is to empower businesses with the next generation of voice interaction. 
 
 ---
 
@@ -12,14 +10,9 @@ Our mission is to empower businesses with the next generation of voice interacti
 
 We are building a suite of advanced **real-time AI Voice Agent** technologies:
 
-#### Instant Response Voice Agents  
-Ultra-low latency conversational systems for sales, customer support, onboarding, and interactive scenarios.
-#### Domain-Specific Intelligent Agents  
-Custom voice agents designed for education, finance, enterprise workflow automation, and more.
-#### Bi-Directional Streaming Engine  
-High-performance STT + TTS pipeline with adaptive tone, intent understanding, and contextual reasoning.
-#### Developer Ecosystem & SDK  
-Easy-to-integrate APIs, SDKs, and templates for teams building their own voice-driven products.
+**Domain-Specific Intelligent Agents**: Custom voice agents designed for education, finance, enterprise workflow automation, and more.
+**Bi-Directional Streaming Engine**: High-performance STT + TTS pipeline with adaptive tone, intent understanding, and contextual reasoning.
+**Developer Ecosystem & SDK**: Easy-to-integrate APIs, SDKs, and templates for teams building their own voice-driven products.
 
 ---
 
